@@ -1,3 +1,22 @@
+commit a4db71979d7c4ae0817671430c59d1d0db59121f
+Merge: 75837e9 ad4437e
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sun Feb 4 19:55:23 2018 -0500
+
+    Fucion
+
+commit ad4437e3a548b5f6da347bb28d781a05f3e12ce5
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sat Feb 3 20:58:58 2018 -0500
+
+    Cambio De Style.css
+
+commit eab73af22c27ab983e032e59090086fd1ec4b9dc
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sat Feb 3 19:13:40 2018 -0500
+
+    Commits agregados
+
 commit 5ee02f9dc5fe8ec20bf270e7c98b10db59cb4637
 Author: Daryl Ospina <daryl110@hotmail.com>
 Date:   Sat Feb 3 19:12:21 2018 -0500
@@ -9,6 +28,18 @@ Author: Daryl Ospina <daryl110@hotmail.com>
 Date:   Sat Feb 3 19:11:00 2018 -0500
 
     Tercer Commit
+
+commit 75837e980cda2b78d5c6e10b113cadd8e36516df
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sat Feb 3 18:55:34 2018 -0500
+
+    Tercer Commit
+
+commit 92c60a75c3747175168a1013eb9626d2c439572d
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sat Feb 3 18:30:40 2018 -0500
+
+    Segundo Commit
 
 commit 01efbfe24cf198dcfdd0019fbf52925c39fab50a
 Author: Daryl Ospina <daryl110@hotmail.com>
