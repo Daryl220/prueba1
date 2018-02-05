@@ -1,3 +1,46 @@
+commit 5f87368dd8ecc5cf591c668de0900917da5c09a1
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Mon Feb 5 00:23:54 2018 -0500
+
+    comit 8
+
+commit 09785bc27ad2a2efb1f9f6014a754264ff8b1e98
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Mon Feb 5 00:23:34 2018 -0500
+
+    comit 2
+
+commit 4de37047159af72da3e3c57a4d12c3ba884df96c
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Mon Feb 5 00:23:20 2018 -0500
+
+    comit 1
+
+commit abcf6746189ed388d33889a8ce68ca88d64238fa
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Mon Feb 5 00:19:50 2018 -0500
+
+    agregado un nuevo div
+
+commit 44373fbddec728b5b7ef4748a4bd0faed6eed0b6
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sun Feb 4 20:16:38 2018 -0500
+
+    colores cambiados
+
+commit 99490e46af33b68ea5aa2f89ab066f50866a614c
+Merge: a4db719 ec0e433
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sun Feb 4 20:07:11 2018 -0500
+
+    Post Fucion
+
+commit ec0e43367c5530ea24346c8075d3ecf609292751
+Author: Daryl Ospina <daryl110@hotmail.com>
+Date:   Sun Feb 4 20:00:24 2018 -0500
+
+    cambio en hover
+
 commit a4db71979d7c4ae0817671430c59d1d0db59121f
 Merge: 75837e9 ad4437e
 Author: Daryl Ospina <daryl110@hotmail.com>
